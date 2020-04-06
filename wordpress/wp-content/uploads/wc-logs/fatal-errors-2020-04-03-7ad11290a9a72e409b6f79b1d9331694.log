@@ -1,0 +1,20 @@
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-includes\wp-db.php на строке 2030
+
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\accesspress-social-login-lite\accesspress-social-login-lite.php на строке 268
+
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\accesspress-social-login-lite\accesspress-social-login-lite.php на строке 268
+
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\accesspress-social-login-lite\accesspress-social-login-lite.php на строке 268
+
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\accesspress-social-login-lite\accesspress-social-login-lite.php на строке 268
+
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\accesspress-social-login-lite\accesspress-social-login-lite.php на строке 268
+
+2020-04-03T14:44:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\accesspress-social-login-lite\accesspress-social-login-lite.php на строке 268
+
+2020-04-03T22:45:38+00:00 CRITICAL Cannot use [] for reading в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-search.php на строке 103
+
+2020-04-03T22:45:40+00:00 CRITICAL Cannot use [] for reading в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-search.php на строке 103
+
+2020-04-03T22:45:52+00:00 CRITICAL Cannot use [] for reading в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-search.php на строке 103
+

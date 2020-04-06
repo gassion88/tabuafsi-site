@@ -1,0 +1,36 @@
+2020-04-01T14:49:07+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-ajax.php на строке 1027
+
+2020-04-01T14:49:44+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-ajax.php на строке 1027
+
+2020-04-01T15:38:35+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-ajax.php на строке 1065
+
+2020-04-01T15:42:50+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-ajax.php на строке 1065
+
+2020-04-01T15:43:07+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-ajax.php на строке 1065
+
+2020-04-01T15:43:51+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\themes\classiera\inc\classiera-ajax.php на строке 1065
+
+2020-04-01T23:10:40+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in W:\domains\wordpress\wp-content\themes\classiera\search.php:585
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\template-loader.php(98): include()
+#1 W:\domains\wordpress\wp-blog-header.php(19): require_once('W:\\domains\\word...')
+#2 W:\domains\wordpress\index.php(17): require('W:\\domains\\word...')
+#3 {main}
+  thrown в W:\domains\wordpress\wp-content\themes\classiera\search.php на строке 585
+
+2020-04-01T23:26:43+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in W:\domains\wordpress\wp-content\themes\classiera\search.php:585
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\template-loader.php(98): include()
+#1 W:\domains\wordpress\wp-blog-header.php(19): require_once('W:\\domains\\word...')
+#2 W:\domains\wordpress\index.php(17): require('W:\\domains\\word...')
+#3 {main}
+  thrown в W:\domains\wordpress\wp-content\themes\classiera\search.php на строке 585
+
+2020-04-01T23:26:52+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in W:\domains\wordpress\wp-content\themes\classiera\search.php:585
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\template-loader.php(98): include()
+#1 W:\domains\wordpress\wp-blog-header.php(19): require_once('W:\\domains\\word...')
+#2 W:\domains\wordpress\index.php(17): require('W:\\domains\\word...')
+#3 {main}
+  thrown в W:\domains\wordpress\wp-content\themes\classiera\search.php на строке 585
+

@@ -1,2 +1,0 @@
-2020-03-25T15:59:49+00:00 CRITICAL Class Requests_Cookie_Jar contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (IteratorAggregate::��%) в W:\domains\wordpress\wp-includes\Requests\Cookie\Jar.php на строке 15
-
